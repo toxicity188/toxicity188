@@ -6,7 +6,7 @@
   
 </div>
 
-## Kotlin / Java develper
+## Kotlin / Java developer
 - I'm toxicity.  
 - Please feel free to send me DM if you have a any question.  
 - My discord name is toxicity188.
