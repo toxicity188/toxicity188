@@ -8,12 +8,10 @@
 
 ## Kotlin / Java developer
 - I'm toxicity.  
-- Please feel free to send me DM if you have a any question.  
 - My discord name is toxicity188.
 
 ## Interest
-- Minecraft plugin  
-- MySql  
+- Minecraft plugin/server-side mod  
 
 <!--
 **toxicity188/toxicity188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
